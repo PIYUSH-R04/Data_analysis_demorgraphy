@@ -1,0 +1,134 @@
+,Id,Born,Raised,Residence,Transportation,Commute,Family,Area,Batch
+0,402,Kathmandu,Kathmandu,Chabahil,Foot,25,3,North East,25B
+1,412,Biratnagar,Biratnagar,kalo pul,Foot,5,4,West,25B
+2,413,Kathmandu,Kathmandu,Narayantaar,Scooter,25,5,North,25B
+3,416,Kathmandu,Kathmandu,Baneshwor,Scooter,10,8,East,25B
+4,417,Lalitpur,Lalitpur,Godawari,Scooter,40,5,South,25B
+5,426,Biratnagar,Biratnagar,Lokanthali,Public,40,4,North East,25B
+6,427,Kathmandu,Kathmandu,Sifal,Foot,5,4,North West,25B
+7,501,Dang,Kathmandu,Baneshwor,Foot,20,1,East,26B
+8,502,Kathmandu,Kathmandu,Baluwatar,Motorbike,25,3,North West,26B
+9,503,Kathmandu,Kathmandu,Kamalpokhari,Car,10,5,South West,26B
+10,504,Rupandehi,Kathmandu,Dhapasi,Scooter,20,4,North,26B
+11,505,Kathmandu,Kathmandu,Bhaktapur,Car,25,4,North East,26B
+12,506,Kathmandu,Kathmandu,Tokha,Public,90,6,North,26B
+13,507,Birgunj,Kathmandu,Gaurighat,Scooter,10,2,South,26B
+14,1001,Lalitpur,Kathmandu,Bafal,Motorbike,38,5,West,24C
+15,1003,Chitwan,Chitwan,Swyambhu ,Scooter,20,5,West,24C
+16,1004,Kathmandu,Kathmandu,Naya Bazaar,Cycle,13,5,North,24C
+17,1005,Kathmandu,Kathmandu,Jorpati,Motorbike,10,5,North East,24C
+18,1007,Rupandehi,Rupandehi,Shankhamul,Public,20,5,South,24C
+19,1008,Kathmandu,Kathmandu,Maitidevi,Foot,15,6,North West,24C
+20,1009,Lalitpur,Lalitpur,Satdobato,Scooter,30,4,South,24C
+21,1010,Pokhara,Kathmandu,Lazimpat,Foot,40,5,North West,24C
+22,1012,Kathmandu,Kathmandu,Kapurdhara,Public,15,5,North,24C
+23,1013,Jhapa,Kathmandu,Chabahil,Foot,7,4,North East,24C
+24,1015,Kathmandu,Kathmandu,Chabahil,Foot,5,4,North East,24C
+25,1016,Kanchanpur,Kanchanpur,Tikathali,Public,50,4,South,24C
+26,1017,Lalitpur,Lalitpur,Gothatar,Motorbike,10,3,East,24C
+27,1018,Jhapa,Bhaktapur,Thimi,Motorbike,20,4,East,24C
+28,1019,Kathmandu,Kathmandu,Naxal,Foot,20,5,North West,24C
+29,1021,Morang,Morang,Sifal,Foot,2,4,West,24C
+30,1022,Lalitpur,Kathmandu,Pepsicola,Motorbike,15,4,East,24C
+31,1023,Kathmandu,Kathmandu,Kapan,Public,15,3,North East,24C
+32,1024,Kathmandu,Kathmandu,New Baneshwor,Motorbike,10,4,East,24C
+33,1025,Kathmandu,Kathmandu,Budhanilkantha,Car,20,4,North,24C
+34,1026,Morang,Kathmandu,Sifal,Foot,5,5,West,24C
+35,1027,Kathmandu,Bhaktapur,Lokanthali,Car,35,3,East,24C
+36,1028,Lalitpur,Lalitpur,Hattiban,Scooter,25,4,South,24C
+37,1029,Kathmandu,Kathmandu,Chabahil,Foot,5,4,North East,24C
+38,1030,Kathmandu,Kathmandu,Chabahil,Scooter,3,4,North East,24C
+39,1031,Kathmandu,Lalitpur,Sanepa,Scooter,15,6,South,24C
+40,1032,Kathmandu,Kathmandu,Sifal,Foot,3,5,West,24C
+41,1033,Lalitpur,Kathmandu,Balaju,Scooter,10,4,North West,24C
+42,1034,Kathmandu,Kathmandu,Boudhha,Foot,25,4,North East,24C
+43,1035,Kathmandu,Kathmandu,Yellow Pool,Foot,15,6,North,24C
+44,1036,Lalitpur,Bhaktapur,Balkot,Public,50,4,North East,24C
+45,1038,Kathmandu,Kathmandu,Swyambhu ,Motorbike,22,4,West,24C
+46,1039,Kathmandu,Kathmandu,Minbhawan,Scooter,10,5,South,24C
+47,1040,Kathmandu,Kathmandu,Chabahil,Foot,12,3,North East,24C
+48,1041,Lalitpur,Kathmandu,Kalanki,Scooter,25,4,West,24C
+49,1042,Chitwan,Kathmandu,Kapan,Public,20,5,North East,24C
+50,1043,Lalitpur,Kathmandu,Asan,Scooter,15,3,South,24C
+51,1044,Kathmandu,Lalitpur,Sanepa,Scooter,15,3,South,24C
+52,1045,Kathmandu,Kathmandu,Jorpati,Public,30,5,North East,24C
+53,1046,Morang,Kathmandu,New Baneshwor,Scooter,10,4,East,24C
+54,1047,Kathmandu,Kathmandu,Sukedhara,Motorbike,10,4,North,24C
+55,1048,Kathmandu,Kathmandu,Dhumbarahi ,Scooter,10,5,North West,24C
+56,1102,Kathmandu,Kathmandu,Gausala,Public,20,5,East,25C
+57,1107,Kathmandu,Kathmandu,Samakhusi,Motorbike,15,5,North,25C
+58,1108,Bhaktapur,Bhaktapur,Changunaryan,Motorbike,25,4,East,25C
+59,1109,Sunsari,Sunsari,Gothatar,Public,50,4,East,25C
+60,1110,Sunsari,Sunsari,Kausaltar,Scooter,25,4,North East,25C
+61,1111,Kathmandu,Kathmandu,Nayabazar,Public,20,3,North,25C
+62,1111,Chitwan,Kathmandu,Tokha,Scooter,40,4,North,25C
+63,1112,Kathmandu,Kathmandu,Bagbazar,Scooter,15,5,North West,25C
+64,1113,Kathmandu,Kathmandu,Gothatar,Motorbike,10,5,East,25C
+65,1115,Chitwan,Chitwan,Kirtipur,Public,90,4,South West,25C
+66,1116,Kaski,Kaski,Banasthali,Public,45,5,East,25C
+67,1117,Lalitpur,Kathmandu,Sukedhara,Motorbike,15,4,North,25C
+68,1118,Kathmandu,Kathmandu,Basundhara,Public,20,4,North,25C
+69,1120,Kathmandu,Kathmandu,Jorpati,Scooter,20,7,North East,25C
+70,1121,"Merut, India",Kathmandu,Bansbari,Public,30,3,North,25C
+71,1122,Kathmandu,Kathmandu,Balkhu,Motorbike,45,4,West,25C
+72,1123,Chitwan,Chitwan,Sanobharyang,Motorbike,30,6,North,25C
+73,1124,Sunsari,Sunsari,Pepsicola,Public,50,5,East,25C
+74,1125,Kathmandu,Kathmandu,Gothatar,Motorbike,15,6,East,25C
+75,1129,Makwanpur,Makwanpur,Balkumari,Public,40,4,South,25C
+76,1130,Kathmandu,Bhaktapur,Purano Thimi,Public,60,4,East,25C
+77,1131,Kathmandu,Kathmandu,Satungal,Scooter,60,4,West,25C
+78,1132,Kathmandu,Kathmandu,Jorpati,Scooter,10,5,North East,25C
+79,1132,Kathmandu,Kathmandu,Dhumbarahi,Motorbike,10,4,North West,25C
+80,1133,Kathmandu,Kathmandu,Raniban,Scooter,45,4,West,25C
+81,1134,Kathmandu,Kathmandu,Lainchaur,Cycle,15,4,North West,25C
+82,1137,Lalitpur,Kathmandu,Suryabinayak,Scooter,50,5,East,25C
+83,1142,Kathmandu,Kathmandu,Chandol,Public,15,4,West,25C
+84,1143,Dhading,Kathmandu,Gurjudhara,Scooter,35,5,North,25C
+85,1144,Sunsari,Kathmandu,Koteshwor,Public,45,6,East,25C
+86,1145,Jhapa,Jhapa,Ratopul,Foot,10,9,West,25C
+87,1146,Lalitpur,Lalitpur,Patan,Motorbike,20,4,South,25C
+88,1147,Kathmandu,Kathmandu,Khusibu,Motorbike,15,7,North,25C
+89,1148,Kathmandu,Kathmandu,Gaurighat,Motorbike,10,6,North,25C
+90,1201,Morang,Morang,Maitidevi,Foot,30,4,West,26C
+91,1202,Kathmandu,Kathmandu,Guheshwori,Motorbike,20,5,South,26C
+92,1203,Kathmandu,Kathmandu,Siphal,Foot,5,5,North East,26C
+93,1204,Kathmandu,Kathmandu,Maitidevi,Scooter,6,6,West,26C
+94,1205,Jhapa,Jhapa,Baneshwor,Scooter,15,5,East,26C
+95,1206,Bhaktapur,Bhaktapur,Gathaghar,Public,50,4,East,26C
+96,1207,Kathmandu,Kathmandu,Budhanilkhantha,Public,45,4,North,26C
+97,1208,Chitwan,Chitwan,Chabahil,Foot,10,3,North East,26C
+98,1209,Sunsari,Jhapa,Kapan,Public,25,3,North,26C
+99,1210,Chitwan,Chitwan,Kalanki,Public,60,3,West,26C
+100,1212,Lalitpur,Lalitpur,Imadol,Public,45,3,South,26C
+101,1213,Rupandehi,Rupandehi,Kausaltar,Public,60,5,East,26C
+102,1214,Kathmandu,Kathmandu,Anamnagar,Scooter,15,3,East,26C
+103,1215,Lalitpur,Lalitpur,Bhaisepati,Public,60,3,South,26C
+104,1216,Jhapa,Jhapa,Siphal,Foot,10,1,North East,26C
+105,1217,Kathmandu,Kathmandu,Dhumbarahi,Motorbike,15,3,North West,26C
+106,1218,Sindhuli,Kathmandu,Kapan,Public,45,8,North,26C
+107,1219,Kavre,Kathmandu,Baneshwor,Motorbike,3,4,East,26C
+108,1220,Sindhuli,Kathmandu,Mulpani,Motorbike,20,7,North,26C
+109,1221,Kaski,Kaski,Baneshwor,Public,35,5,East,26C
+110,1222,Kathmandu,Kathmandu,jadibuti,Public,45,5,East,26C
+111,1223,Jhapa,Bhojpur,Kalopul,Foot,5,4,West,26C
+112,1224,Kathmandu,Kathmandu,Jorpati,Motorbike,15,4,North East,26C
+113,1225,Kathmandu,Kathmandu,Kapan,Public,30,4,North East,26C
+114,1226,Sunsari,Bhaktapur,Lokanthali,Car,35,4,North East,26C
+115,1227,Kathmandu,Kathmandu,Lokanthali,Public,45,5,North East,26C
+116,1228,Kathmandu,Kathmandu,Jorpati,Public,30,5,North East,26C
+117,1229,Sindhupalchowk,Kathmandu,Pepsicola,Scooter,15,4,East,26C
+118,1230,Kathmandu,Kathmandu,Maitidevi,Public,20,4,West,26C
+119,1231,Sunsari,Dharan,Gwarko,Public,30,3,South,26C
+120,1232,Morang,Morang,Chabel,Foot,12,3,North East,26C
+121,1233,Kathmandu,Kathmandu,Gothatar,Motorbike,30,4,East,26C
+122,1234,Rupandehi,Rupandehi,Samakhushi,Public,30,4,North East,26C
+123,1235,Lalitpur,Lalitpur,Satobato,Public,60,5,South,26C
+124,1236,Kathmandu,Kathmandu,Boudha,Scooter,15,3,East,26C
+125,1237,Kathmandu,Kathmandu,Budhanilkhantha,Car,30,6,North,26C
+126,1238,Mahottari,Kathmandu,Gaurighat,Foot,20,4,North East,26C
+127,1239,Kathmandu,Kathmandu,Kalopul,Scooter,5,3,West,26C
+128,1240,Kaski,baden wuertemberg,kapan,Public,35,5,North East,26C
+129,1241,Lalitpur,Lalitpur,Jawlakhel,Scooter,40,5,South,26C
+130,1242,Illam,Illam,Thimi,Public,60,4,East,26C
+131,1243,Lalitpur,Lalitpur,Nakhipot,Public,35,6,South,26C
+132,1244,Lalitpur,Kathmandu,Kalanki,Public,60,3,West,26C

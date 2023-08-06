@@ -1,0 +1,133 @@
+index,Id,Born,Raised,Residence,Transportation,Commute,Family,Area,Batch,province,region
+1,402,Kathmandu,Kathmandu,Chabahil,Foot,25,3,North East,25B,Province 3,Hilly
+5,412,Morang,Morang,kalo pul,Foot,5,4,West,25B,Province 2,Terai
+4,413,Kathmandu,Kathmandu,Narayantaar,Scooter,25,5,North,25B,Province 3,Hilly
+2,416,Kathmandu,Kathmandu,Baneshwor,Scooter,10,8,East,25B,Province 3,Hilly
+3,417,Lalitpur,Lalitpur,Godawari,Scooter,40,5,South,25B,Province 3,Hilly
+6,426,Morang,Morang,Lokanthali,Public,40,4,North East,25B,Province 2,Terai
+0,427,Kathmandu,Kathmandu,Sifal,Foot,5,4,North West,25B,Province 3,Hilly
+1,501,Dang,Kathmandu,Baneshwor,Foot,20,1,East,26B,Province 5,Terai
+0,502,Kathmandu,Kathmandu,Baluwatar,Motorbike,25,3,North West,26B,Province 3,Hilly
+2,503,Kathmandu,Kathmandu,Kamalpokhari,Car,10,5,South West,26B,Province 3,Hilly
+5,504,Rupandehi,Kathmandu,Dhapasi,Scooter,20,4,North,26B,Province 5,Terai
+4,505,Kathmandu,Kathmandu,Bhaktapur,Car,25,4,North East,26B,Province 3,Hilly
+6,506,Kathmandu,Kathmandu,Tokha,Public,90,6,North,26B,Province 3,Hilly
+3,507,Parsa,Kathmandu,Gaurighat,Scooter,10,2,South,26B,Province 2,Terai
+40,1001,Lalitpur,Kathmandu,Bafal,Motorbike,38,5,West,24C,Province 3,Hilly
+41,1003,Chitwan,Chitwan,Swyambhu ,Scooter,20,5,West,24C,Province 3,Terai
+21,1004,Kathmandu,Kathmandu,Naya Bazaar,Cycle,13,5,North,24C,Province 3,Hilly
+2,1005,Kathmandu,Kathmandu,Jorpati,Motorbike,10,5,North East,24C,Province 3,Hilly
+33,1007,Rupandehi,Rupandehi,Shankhamul,Public,20,5,South,24C,Province 5,Terai
+34,1008,Kathmandu,Kathmandu,Maitidevi,Foot,15,6,North West,24C,Province 3,Hilly
+35,1009,Lalitpur,Lalitpur,Satdobato,Scooter,30,4,South,24C,Province 3,Hilly
+25,1010,Kaski,Kathmandu,Lazimpat,Foot,40,5,North West,24C,Province 4,Hilly
+11,1012,Kathmandu,Kathmandu,Kapurdhara,Public,15,5,North,24C,Province 3,Hilly
+17,1013,Jhapa,Kathmandu,Chabahil,Foot,7,4,North East,24C,Province 2,Terai
+30,1015,Kathmandu,Kathmandu,Chabahil,Foot,5,4,North East,24C,Province 3,Hilly
+24,1016,Kanchanpur,Kanchanpur,Tikathali,Public,50,4,South,24C,Province 7,Terai
+8,1017,Lalitpur,Lalitpur,Gothatar,Motorbike,10,3,East,24C,Province 3,Hilly
+18,1018,Jhapa,Bhaktapur,Thimi,Motorbike,20,4,East,24C,Province 2,Terai
+20,1019,Kathmandu,Kathmandu,Naxal,Foot,20,5,North West,24C,Province 3,Hilly
+1,1021,Morang,Morang,Sifal,Foot,2,4,West,24C,Province 2,Terai
+32,1022,Lalitpur,Kathmandu,Pepsicola,Motorbike,15,4,East,24C,Province 3,Hilly
+22,1023,Kathmandu,Kathmandu,Kapan,Public,15,3,North East,24C,Province 3,Hilly
+3,1024,Kathmandu,Kathmandu,New Baneshwor,Motorbike,10,4,East,24C,Province 3,Hilly
+31,1025,Kathmandu,Kathmandu,Budhanilkantha,Car,20,4,North,24C,Province 3,Hilly
+19,1026,Morang,Kathmandu,Sifal,Foot,5,5,West,24C,Province 2,Terai
+0,1027,Kathmandu,Bhaktapur,Lokanthali,Car,35,3,East,24C,Province 3,Hilly
+7,1028,Lalitpur,Lalitpur,Hattiban,Scooter,25,4,South,24C,Province 3,Hilly
+23,1029,Kathmandu,Kathmandu,Chabahil,Foot,5,4,North East,24C,Province 3,Hilly
+14,1030,Kathmandu,Kathmandu,Chabahil,Scooter,3,4,North East,24C,Province 3,Hilly
+28,1031,Kathmandu,Lalitpur,Sanepa,Scooter,15,6,South,24C,Province 3,Hilly
+9,1032,Kathmandu,Kathmandu,Sifal,Foot,3,5,West,24C,Province 3,Hilly
+6,1033,Lalitpur,Kathmandu,Balaju,Scooter,10,4,North West,24C,Province 3,Hilly
+4,1034,Kathmandu,Kathmandu,Boudhha,Foot,25,4,North East,24C,Province 3,Hilly
+38,1035,Kathmandu,Kathmandu,Yellow Pool,Foot,15,6,North,24C,Province 3,Hilly
+36,1036,Lalitpur,Bhaktapur,Balkot,Public,50,4,North East,24C,Province 3,Hilly
+39,1038,Kathmandu,Kathmandu,Swyambhu ,Motorbike,22,4,West,24C,Province 3,Hilly
+29,1039,Kathmandu,Kathmandu,Minbhawan,Scooter,10,5,South,24C,Province 3,Hilly
+13,1040,Kathmandu,Kathmandu,Chabahil,Foot,12,3,North East,24C,Province 3,Hilly
+10,1041,Lalitpur,Kathmandu,Kalanki,Scooter,25,4,West,24C,Province 3,Hilly
+12,1042,Chitwan,Kathmandu,Kapan,Public,20,5,North East,24C,Province 3,Terai
+27,1043,Lalitpur,Kathmandu,Asan,Scooter,15,3,South,24C,Province 3,Hilly
+26,1044,Kathmandu,Lalitpur,Sanepa,Scooter,15,3,South,24C,Province 3,Hilly
+37,1045,Kathmandu,Kathmandu,Jorpati,Public,30,5,North East,24C,Province 3,Hilly
+5,1046,Morang,Kathmandu,New Baneshwor,Scooter,10,4,East,24C,Province 2,Terai
+15,1047,Kathmandu,Kathmandu,Sukedhara,Motorbike,10,4,North,24C,Province 3,Hilly
+16,1048,Kathmandu,Kathmandu,Dhumbarahi ,Scooter,10,5,North West,24C,Province 3,Hilly
+18,1102,Kathmandu,Kathmandu,Gausala,Public,20,5,East,25C,Province 3,Hilly
+33,1107,Kathmandu,Kathmandu,Samakhusi,Motorbike,15,5,North,25C,Province 3,Hilly
+25,1108,Bhaktapur,Bhaktapur,Changunaryan,Motorbike,25,4,East,25C,Province 3,Hilly
+7,1109,Sunsari,Sunsari,Gothatar,Public,50,4,East,25C,Province 2,Terai
+31,1110,Sunsari,Sunsari,Kausaltar,Scooter,25,4,North East,25C,Province 2,Terai
+4,1111,Kathmandu,Kathmandu,Nayabazar,Public,20,3,North,25C,Province 3,Hilly
+21,1111,Chitwan,Kathmandu,Tokha,Scooter,40,4,North,25C,Province 3,Terai
+3,1112,Kathmandu,Kathmandu,Bagbazar,Scooter,15,5,North West,25C,Province 3,Hilly
+24,1113,Kathmandu,Kathmandu,Gothatar,Motorbike,10,5,East,25C,Province 3,Hilly
+0,1115,Chitwan,Chitwan,Kirtipur,Public,90,4,South West,25C,Province 3,Terai
+13,1116,Kaski,Kaski,Banasthali,Public,45,5,East,25C,Province 4,Hilly
+9,1117,Lalitpur,Kathmandu,Sukedhara,Motorbike,15,4,North,25C,Province 3,Hilly
+17,1118,Kathmandu,Kathmandu,Basundhara,Public,20,4,North,25C,Province 3,Hilly
+5,1120,Kathmandu,Kathmandu,Jorpati,Scooter,20,7,North East,25C,Province 3,Hilly
+26,1122,Kathmandu,Kathmandu,Balkhu,Motorbike,45,4,West,25C,Province 3,Hilly
+6,1123,Chitwan,Chitwan,Sanobharyang,Motorbike,30,6,North,25C,Province 3,Terai
+23,1124,Sunsari,Sunsari,Pepsicola,Public,50,5,East,25C,Province 2,Terai
+20,1125,Kathmandu,Kathmandu,Gothatar,Motorbike,15,6,East,25C,Province 3,Hilly
+10,1129,Makwanpur,Makwanpur,Balkumari,Public,40,4,South,25C,Province 3,Hilly
+8,1130,Kathmandu,Bhaktapur,Purano Thimi,Public,60,4,East,25C,Province 3,Hilly
+22,1131,Kathmandu,Kathmandu,Satungal,Scooter,60,4,West,25C,Province 3,Hilly
+12,1132,Kathmandu,Kathmandu,Jorpati,Scooter,10,5,North East,25C,Province 3,Hilly
+14,1132,Kathmandu,Kathmandu,Dhumbarahi,Motorbike,10,4,North West,25C,Province 3,Hilly
+16,1133,Kathmandu,Kathmandu,Raniban,Scooter,45,4,West,25C,Province 3,Hilly
+29,1134,Kathmandu,Kathmandu,Lainchaur,Cycle,15,4,North West,25C,Province 3,Hilly
+19,1137,Lalitpur,Kathmandu,Suryabinayak,Scooter,50,5,East,25C,Province 3,Hilly
+2,1142,Kathmandu,Kathmandu,Chandol,Public,15,4,West,25C,Province 3,Hilly
+1,1143,Dhading,Kathmandu,Gurjudhara,Scooter,35,5,North,25C,Province 3,Hilly
+27,1144,Sunsari,Kathmandu,Koteshwor,Public,45,6,East,25C,Province 2,Terai
+15,1145,Jhapa,Jhapa,Ratopul,Foot,10,9,West,25C,Province 2,Terai
+30,1146,Lalitpur,Lalitpur,Patan,Motorbike,20,4,South,25C,Province 3,Hilly
+32,1147,Kathmandu,Kathmandu,Khusibu,Motorbike,15,7,North,25C,Province 3,Hilly
+28,1148,Kathmandu,Kathmandu,Gaurighat,Motorbike,10,6,North,25C,Province 3,Hilly
+0,1201,Morang,Morang,Maitidevi,Foot,30,4,West,26C,Province 2,Terai
+1,1202,Kathmandu,Kathmandu,Guheshwori,Motorbike,20,5,South,26C,Province 3,Hilly
+2,1203,Kathmandu,Kathmandu,Siphal,Foot,5,5,North East,26C,Province 3,Hilly
+3,1204,Kathmandu,Kathmandu,Maitidevi,Scooter,6,6,West,26C,Province 3,Hilly
+4,1205,Jhapa,Jhapa,Baneshwor,Scooter,15,5,East,26C,Province 2,Terai
+5,1206,Bhaktapur,Bhaktapur,Gathaghar,Public,50,4,East,26C,Province 3,Hilly
+6,1207,Kathmandu,Kathmandu,Budhanilkhantha,Public,45,4,North,26C,Province 3,Hilly
+7,1208,Chitwan,Chitwan,Chabahil,Foot,10,3,North East,26C,Province 3,Terai
+8,1209,Sunsari,Jhapa,Kapan,Public,25,3,North,26C,Province 2,Terai
+9,1210,Chitwan,Chitwan,Kalanki,Public,60,3,West,26C,Province 3,Terai
+10,1212,Lalitpur,Lalitpur,Imadol,Public,45,3,South,26C,Province 3,Hilly
+23,1213,Rupandehi,Rupandehi,Kausaltar,Public,60,5,East,26C,Province 5,Terai
+11,1214,Kathmandu,Kathmandu,Anamnagar,Scooter,15,3,East,26C,Province 3,Hilly
+12,1215,Lalitpur,Lalitpur,Bhaisepati,Public,60,3,South,26C,Province 3,Hilly
+13,1216,Jhapa,Jhapa,Siphal,Foot,10,1,North East,26C,Province 2,Terai
+14,1217,Kathmandu,Kathmandu,Dhumbarahi,Motorbike,15,3,North West,26C,Province 3,Hilly
+15,1218,Sindhuli,Kathmandu,Kapan,Public,45,8,North,26C,Province 3,Hilly
+16,1219,Kavrepalanchok,Kathmandu,Baneshwor,Motorbike,3,4,East,26C,Province 3,Hilly
+18,1220,Sindhuli,Kathmandu,Mulpani,Motorbike,20,7,North,26C,Province 3,Hilly
+19,1221,Kaski,Kaski,Baneshwor,Public,35,5,East,26C,Province 4,Hilly
+20,1222,Kathmandu,Kathmandu,jadibuti,Public,45,5,East,26C,Province 3,Hilly
+21,1223,Jhapa,Bhojpur,Kalopul,Foot,5,4,West,26C,Province 2,Terai
+22,1224,Kathmandu,Kathmandu,Jorpati,Motorbike,15,4,North East,26C,Province 3,Hilly
+24,1225,Kathmandu,Kathmandu,Kapan,Public,30,4,North East,26C,Province 3,Hilly
+25,1226,Sunsari,Bhaktapur,Lokanthali,Car,35,4,North East,26C,Province 2,Terai
+26,1227,Kathmandu,Kathmandu,Lokanthali,Public,45,5,North East,26C,Province 3,Hilly
+27,1228,Kathmandu,Kathmandu,Jorpati,Public,30,5,North East,26C,Province 3,Hilly
+28,1229,Sindhupalchok,Kathmandu,Pepsicola,Scooter,15,4,East,26C,Province 3,Hilly
+29,1230,Kathmandu,Kathmandu,Maitidevi,Public,20,4,West,26C,Province 3,Hilly
+30,1231,Sunsari,Dharan,Gwarko,Public,30,3,South,26C,Province 2,Terai
+31,1232,Morang,Morang,Chabel,Foot,12,3,North East,26C,Province 2,Terai
+32,1233,Kathmandu,Kathmandu,Gothatar,Motorbike,30,4,East,26C,Province 3,Hilly
+33,1234,Rupandehi,Rupandehi,Samakhushi,Public,30,4,North East,26C,Province 5,Terai
+34,1235,Lalitpur,Lalitpur,Satobato,Public,60,5,South,26C,Province 3,Hilly
+35,1236,Kathmandu,Kathmandu,Boudha,Scooter,15,3,East,26C,Province 3,Hilly
+36,1237,Kathmandu,Kathmandu,Budhanilkhantha,Car,30,6,North,26C,Province 3,Hilly
+37,1238,Mahottari,Kathmandu,Gaurighat,Foot,20,4,North East,26C,Province 2,Terai
+38,1239,Kathmandu,Kathmandu,Kalopul,Scooter,5,3,West,26C,Province 3,Hilly
+39,1240,Kaski,baden wuertemberg,kapan,Public,35,5,North East,26C,Province 4,Hilly
+40,1241,Lalitpur,Lalitpur,Jawlakhel,Scooter,40,5,South,26C,Province 3,Hilly
+41,1242,Ilam,Illam,Thimi,Public,60,4,East,26C,Province 1,Himalayan
+42,1243,Lalitpur,Lalitpur,Nakhipot,Public,35,6,South,26C,Province 3,Hilly
+17,1244,Lalitpur,Kathmandu,Kalanki,Public,60,3,West,26C,Province 3,Hilly
